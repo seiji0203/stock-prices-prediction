@@ -4,6 +4,7 @@ This is stock prices prediction repository.
 
 README.md
 
+```
 flask（ファイル）
   ┣ main.py
   ┣ predict.py
@@ -45,3 +46,4 @@ LSTM構築
 結果
 最後に
 参考文献
+```
