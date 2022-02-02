@@ -5,20 +5,7 @@ This is stock prices prediction repository.
 README.md
 
 ```
-flask（ファイル）
-  ┣ main.py
-  ┣ predict.py
-  ┣ static
-  ┃   ┣ images ━ xxx.png
-  ┃   ┣ predict_file ━ xxx.png
-  ┃   ┗ train_files ━ xxx.pth
-  ┃                 ┗ xxx.pkl
-  ┗ templates
-        ┣ get.html # 株価入力
-        ┗ post.html # 株価予測結果
-
-
-第1回_株価予測_可視化編
+第1回_株価予測_可視化編(https://qiita.com/seiji1997/items/aa380d6099a6bcdba800)
 株価データについて
 前提
 実装
@@ -46,4 +33,17 @@ LSTM構築
 結果
 最後に
 参考文献
+
+flask（ファイル）
+  ┣ main.py
+  ┣ predict.py
+  ┣ static
+  ┃   ┣ images ━ xxx.png
+  ┃   ┣ predict_file ━ xxx.png
+  ┃   ┗ train_files ━ xxx.pth
+  ┃                 ┗ xxx.pkl
+  ┗ templates
+        ┣ get.html # 株価入力
+        ┗ post.html # 株価予測結果
+
 ```
